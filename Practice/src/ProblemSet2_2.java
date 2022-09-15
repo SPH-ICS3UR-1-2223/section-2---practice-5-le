@@ -3,11 +3,7 @@ public class ProblemSet2_2 {
         //Use print statements to create your own beautiful original ASCII art.
         //Use comments to describe what your image is depicting.
         
-        
-        
-        
-        
-        
+      
         
         
     } 
